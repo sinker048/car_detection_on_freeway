@@ -5,7 +5,7 @@ The code is referred to https://github.com/kcg2015/Vehicle-Detection-and-Trackin
 
 ## First download the model.
 
-Download mobilenet-ssd from https://github.com/kcg2015/Vehicle-Detection-and-Tracking/tree/master/ssd_mobilenet_v1_coco_11_06_2017
+Download mobilenet-ssd from https://github.com/kcg2015/Vehicle-Detection-and-Tracking/tree/master/ssd_mobilenet_v1_coco_11_06_2017 to ssd_mobilenet_v1_coco_11_06_2017
 
 ## Second Check packages.
 
